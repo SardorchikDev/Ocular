@@ -1,0 +1,15 @@
+main.py
+pyproject.toml
+app/__init__.py
+app/controls.py
+app/player.py
+app/playlist.py
+app/seekbar.py
+app/theme.py
+app/window.py
+ocular.egg-info/PKG-INFO
+ocular.egg-info/SOURCES.txt
+ocular.egg-info/dependency_links.txt
+ocular.egg-info/entry_points.txt
+ocular.egg-info/requires.txt
+ocular.egg-info/top_level.txt

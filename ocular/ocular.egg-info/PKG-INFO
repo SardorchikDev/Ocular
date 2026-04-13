@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ocular
+Version: 0.1.0
+Summary: Minimalist PyQt6 desktop video viewer powered by VLC
+Requires-Python: >=3.11
+Requires-Dist: PyQt6==6.7.1
+Requires-Dist: python-vlc==3.0.21203
